@@ -1,4 +1,4 @@
-# microsoft
+# Microsoft
 - [Demo Project](https://vahidsolimani.github.io/microsoft/)
 
 - Developed by vahid solimani
